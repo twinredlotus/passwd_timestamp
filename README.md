@@ -1,0 +1,1 @@
+Updates passwd_timestamp field in PosgreSQL versions 8.4 and up. Writes all output to log. Log is emailed to users for review after code runs. 
